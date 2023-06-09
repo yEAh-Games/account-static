@@ -3,4 +3,6 @@ Sitemap: https://ugc.yeahgames.net/sitemap.xml
 User-agent: *
 Disallow: /.gitignore
 Disallow: /CNAME
-Disallow: _config.yml
+Disallow: /_config.yml
+Disallow: /.git
+Disallow: /.git/*
